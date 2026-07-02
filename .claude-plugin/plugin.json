@@ -1,0 +1,14 @@
+{
+  "name": "getjelly",
+  "version": "1.0.0",
+  "description": "Access GetJelly creator search, profile spy, and content analysis from Claude",
+  "author": {
+    "name": "GetJelly",
+    "email": "support@getjelly.ai",
+    "url": "https://github.com/getjelly"
+  },
+  "homepage": "https://getjelly.ai",
+  "repository": "https://github.com/getjelly/claude-plugin",
+  "license": "MIT",
+  "keywords": ["creator-search", "influencer-marketing", "content-analysis", "instagram", "tiktok"]
+}
